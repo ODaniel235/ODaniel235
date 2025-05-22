@@ -1,7 +1,19 @@
-🚀 Professional Keyboard Smasher (a.k.a. Daniel)
-💻 I turn coffee into servers, web apps, and mobile apps using MERN, PostgreSQL, Next.js, and SQL and others
-🎮 Secret Skills: Gaming reflexes + debugging while half-asleep + analytical skills
-🌐 Current Mission: Coding things that makes life a little more awesome
-🤝 Social Algorithm: Messed up to be honest
-📫 Let's collaborate
-⚡ Disclaimer: 90% caffeine, 10% human
+🚀 **Professional Keyboard Smasher** (a.k.a. **Daniel**)  
+💻 I turn coffee into **servers, web apps, and mobile apps** using:  
+`MERN` | `PostgreSQL` | `Next.js` | `React Native` | *and other shiny tools*.  
+
+🎮 **Secret Skills:**  
+- Gaming reflexes (100% accuracy, 50% sleep).  
+- Debugging while half-asleep (`if (bug) { coffee.fix(); }`).  
+- Overanalyzing *everything*, including life’s `console.log()`.  
+
+🌐 **Current Mission:**  
+Coding things that make life *a little more awesome*.  
+
+🤝 **Social Algorithm:**  
+```js
+if (newFriend) {
+  return "Let’s collaborate!";
+} else {
+  throw new Error("Why not?");
+}
